@@ -15,7 +15,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Phan Thanh Long
+          Long
         </a>
       </header>
     </div>
